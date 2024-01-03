@@ -35,9 +35,9 @@ You can get your OpenScan Benchy for 5€ (incl. worldwide shipping) [at OpenSca
 
 # The results
 
-| Scanner | done by | Method | Downloadlink | Comment | 
-| -- | -- | -- | -- | -- |
-| OpenScan Mini with IMX519 |[OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | tbd | 300 photos in 6 stacks, processed in OpenScanCloud|
+| Scanner | Result | done by | Method | Downloadlink | Comment | 
+| -- | -- | -- | -- | -- | -- |
+| OpenScan Mini with IMX519 | ![image](https://github.com/OpenScanEu/OpenScanBenchy/assets/57842400/bc67dfea-b08d-49b1-a101-adfcdaee86e8)|[OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | [Dropbox](https://www.dropbox.com/scl/fi/e58u32md2hn2q7kms2ydn/OpenScanMini-300x6-OpenScanCloud.stl?rlkey=c0jsstaxml9t7res3ka8dq6sa&dl=0) | 300 photos in 6 stacks, processed in OpenScanCloud|
 
 
 
