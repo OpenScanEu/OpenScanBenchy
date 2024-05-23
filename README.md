@@ -4,9 +4,9 @@
 
 ![Benchy01](https://github.com/OpenScanEu/OpenScanBenchy/assets/57842400/ad9864d0-46e4-43a4-9040-566df0b28306)
 
-The original model was created by Valandar and can be downloaded here: https://www.thingiverse.com/thing:2929718
+The original model was created by Valandar and can be downloaded [from Thingiverse](https://www.thingiverse.com/thing:2929718)
 
-We slightly modified this model by adding some text to the base.
+We slightly modified this model by adding some text to the base. Get the modified version [on Printables.com](https://www.printables.com/model/857818-openscan-benchy)
 
 Close-up:
 ![IMG_6854](https://github.com/OpenScanEu/OpenScanBenchy/assets/57842400/a151e282-17e9-4c27-863a-c545a1840b32)
@@ -25,7 +25,7 @@ The 3d printing process creates tiny artifacts (layer lines, support residue..),
 # How to participate
 
 ## Get your printed 3d figurine
-You can get your OpenScan Benchy for 5€ (incl. worldwide shipping) [at OpenScan.eu](https://en.openscan.eu/product-page/openscan-benchy))
+We provide printed models and offer free worldwide shipping. Just drop us a mail to info@openscan.eu or support the project by ordering your Benchy for 5€ (incl. worldwide shipping) [through our website openscan.eu](https://en.openscan.eu/product-page/openscan-benchy))
 
 ## Create and share your 3d scan
 - create a unmodified .stl file and share the link on GitHub or [mail to info@openscan.eu](mailto:info@openscan.eu?subject=OpenScanBenchy)
