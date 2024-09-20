@@ -37,7 +37,9 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 
 | Scanner | Result | done by | Method | Downloadlink | Comment | 
 | -- | -- | -- | -- | -- | -- |
+| CT Scan |![CT_close](https://github.com/user-attachments/assets/fca3bfa7-0fe2-47cb-86e2-59fc46e078ca) | Anon | CT  | [Printables](https://www.printables.com/model/1012979-openscan-benchy-sample-3d-scan-with-ct-scanner) |  |
+| OpenScan Classic + Daheng 21Mpx |![OS_Classic_21mpx_close](https://github.com/user-attachments/assets/df4ec61d-7a12-46f6-8ea9-7d4b36b457fe) |  [OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry  | [Printables](https://www.printables.com/model/1012987-openscan-benchy-sample-3d-scan-with-openscan-class) | 300 photos + OpenScanCloud |
 | OpenScan Mini with IMX519 |![OS_mini_OSC_close](https://github.com/user-attachments/assets/e5edee2a-3304-4f03-a03d-dfc2fb03debd) | [OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | [Printables ](https://www.printables.com/model/1012990-openscan-benchy-sample-3d-scan-with-openscan-mini) | 300 photos in 6 stacks, processed in OpenScanCloud|
-| Creality Raptor |![Raptor_Ralph_close](https://github.com/user-attachments/assets/a83e879a-9ba6-47b3-bcba-30a1e192d3b1) | Ralph | Blue Laser | [Printables ](https://www.printables.com/model/1012964-openscan-benchy-sample-3d-scan-with-creality-rapto) | Raw: 31,678 frames / 170,787 points|
-
+| Creality Raptor |![Raptor_Ralph_close](https://github.com/user-attachments/assets/a83e879a-9ba6-47b3-bcba-30a1e192d3b1) | RhiffSta | Blue Laser | [Printables ](https://www.printables.com/model/1012964-openscan-benchy-sample-3d-scan-with-creality-rapto) | Raw: 31,678 frames / 170,787 points|
+| Matter and Form THREE | ![MatterAndFormThree_close](https://github.com/user-attachments/assets/61112489-7c67-463a-b9b6-0c4722b44bd8) | [Jordan Cain](https://x.com/odd_enough) | Structured Light | [Printables ](https://www.printables.com/model/1012969-openscan-benchy-sample-3d-scan-with-matter-and-for) | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin |
 
