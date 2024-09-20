@@ -37,7 +37,7 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 
 | Scanner | Result | done by | Method | Downloadlink | Comment | 
 | -- | -- | -- | -- | -- | -- |
-| OpenScan Mini with IMX519 | ![image](https://github.com/OpenScanEu/OpenScanBenchy/assets/57842400/bc67dfea-b08d-49b1-a101-adfcdaee86e8)|[OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | [Dropbox](https://www.dropbox.com/scl/fi/e58u32md2hn2q7kms2ydn/OpenScanMini-300x6-OpenScanCloud.stl?rlkey=c0jsstaxml9t7res3ka8dq6sa&dl=0) | 300 photos in 6 stacks, processed in OpenScanCloud|
-
+| OpenScan Mini with IMX519 |![OS_mini_OSC_close](https://github.com/user-attachments/assets/e5edee2a-3304-4f03-a03d-dfc2fb03debd) | [OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | [Printables ](https://www.printables.com/model/1012990-openscan-benchy-sample-3d-scan-with-openscan-mini) | 300 photos in 6 stacks, processed in OpenScanCloud|
+| Creality Raptor |![Raptor_Ralph_close](https://github.com/user-attachments/assets/a83e879a-9ba6-47b3-bcba-30a1e192d3b1) | Ralph | Blue Laser | [Printables ](https://www.printables.com/model/1012964-openscan-benchy-sample-3d-scan-with-creality-rapto) | Raw: 31,678 frames / 170,787 points|
 
 
