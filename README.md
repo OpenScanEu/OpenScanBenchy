@@ -35,7 +35,8 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 
 # The results sorted by price (left to right, top to bottom)
 
-![2025-01-14](https://github.com/user-attachments/assets/6d2e342c-41aa-4585-9613-8d4ec0ac8d80)
+![output_grid](https://github.com/user-attachments/assets/8b03f15d-1668-4fd0-b1cc-865f01fbc290)
+
 
 # The results - some more details
 
@@ -43,9 +44,9 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 | -- | -- | -- | -- | -- | -- | -- |
 | CT Scanner | professional | n.a. | <30cm | n.a. | - | Anon |
 | OpenScan Mini | DIY kit | 340€ | <9cm | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | standard: 16mpx, advanced: 64mpx | OpenScan |
-| OpenScan Classic with Daheng 6mpx| DIY | 610€ | <18cm | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | standard kit (310€) + special camera/lens (300€) | OpenScan |
-| Revopoint Mini | hobbyist | ~500€ | >1cm |  | discontinued | Spherox |
-| Revopoint Range | hobbyist | ~550€ | >5cm | discontinued |  | Sheeter |
+| OpenScan Classic with Daheng 6mpx| DIY | 500€ | <18cm | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | standard kit (310€) + special camera/lens (300€) | OpenScan |
+| Revopoint Mini | hobbyist | ~550€ | >1cm |  | discontinued | Spherox |
+| Revopoint Range | hobbyist | ~600€ | >5cm | discontinued |  | Sheeter |
 | Revopoint Range 2 | hobbyist | ~750€ | >5cm | [Revopoint3d.com](https://global.revopoint3d.com/pages/handheld-3d-scanner-range2) |  | RhiffSta |
 | OpenScan Classic with Daheng 21mpx | DIY | ~1000€ | <18cm | n.a. | standard kit + special camera/lens | OpenScan |
 | Creality Raptor | consumer | 1100€ | 0.5-100cm | [Revopoint3d.com](https://www.revopoint3d.com/products/3d-laser-scanner-metrox) |   | CNCkitchen + RhiffSta (Raw: 31,678 frames / 170,787 points)|
