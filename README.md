@@ -33,17 +33,23 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 - specify your scanning setup and procedure
 - if you want, add your (company) details, links, etc. if you want to be mentioned as the source
 
-# The results
+# The results sorted by price (left to right, top to bottom)
 
 ![2025-01-14](https://github.com/user-attachments/assets/6d2e342c-41aa-4585-9613-8d4ec0ac8d80)
 
+# The results - some more details
 
-
-| Scanner | Result | done by | Method | Downloadlink | Comment | 
-| -- | -- | -- | -- | -- | -- |
-| CT Scan |![CT_close](https://github.com/user-attachments/assets/fca3bfa7-0fe2-47cb-86e2-59fc46e078ca) | Anon | CT  | [Printables](https://www.printables.com/model/1012979-openscan-benchy-sample-3d-scan-with-ct-scanner) |  |
-| OpenScan Classic + Daheng 21Mpx |![OS_Classic_21mpx_close](https://github.com/user-attachments/assets/df4ec61d-7a12-46f6-8ea9-7d4b36b457fe) |  [OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry  | [Printables](https://www.printables.com/model/1012987-openscan-benchy-sample-3d-scan-with-openscan-class) | 300 photos + OpenScanCloud |
-| OpenScan Mini with IMX519 |![OS_mini_OSC_close](https://github.com/user-attachments/assets/e5edee2a-3304-4f03-a03d-dfc2fb03debd) | [OpenScan.eu](https://en.openscan.eu/openscan-mini) | Photogrammetry | [Printables ](https://www.printables.com/model/1012990-openscan-benchy-sample-3d-scan-with-openscan-mini) | 300 photos in 6 stacks, processed in OpenScanCloud|
-| Creality Raptor |![Raptor_Ralph_close](https://github.com/user-attachments/assets/a83e879a-9ba6-47b3-bcba-30a1e192d3b1) | RhiffSta | Blue Laser | [Printables ](https://www.printables.com/model/1012964-openscan-benchy-sample-3d-scan-with-creality-rapto) | Raw: 31,678 frames / 170,787 points|
-| Matter and Form THREE | ![MatterAndFormThree_close](https://github.com/user-attachments/assets/61112489-7c67-463a-b9b6-0c4722b44bd8) | [Jordan Cain](https://x.com/odd_enough) | Structured Light | [Printables ](https://www.printables.com/model/1012969-openscan-benchy-sample-3d-scan-with-matter-and-for) | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin |
-
+| Scanner | Type | Price |  rec. object size | Link | Comment | scanned by |
+| -- | -- | -- | -- | -- | -- | -- |
+| CT Scanner | professional | n.a. | <30cm | n.a. | - | Anon |
+| OpenScan Mini | DIY kit | 340€ | <9cm | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | standard: 16mpx, advanced: 64mpx | OpenScan |
+| OpenScan Classic with Daheng 6mpx| DIY | 610€ | <18cm | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | standard kit (310€) + special camera/lens (300€) | OpenScan |
+| Revopoint Mini | hobbyist |  |  |  |  | Spherox |
+| Revopoint Range | hobbyist |  |  |  |  | Sheeter |
+| Revopoint Range 2 | hobbyist |  |  |  |  | RhiffSta |
+| OpenScan Classic with Daheng 21mpx | DIY | ~1000€ | <18cm | n.a. | standard kit + special camera/lens | OpenScan |
+| Creality Raptor |  |  |  |  |   | CNCkitchen + RhiffSta (Raw: 31,678 frames / 170,787 points)|
+| Revopoint MetroX |  |  |  |  |  | ? |
+| David SLS + Flexscan |  |  |  |  |  | Sheeter |
+| MatterAndFormThree |  |  |  |  | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin | [Jordan Cain](https://x.com/odd_enough) |
+| EinScan H |  |  |  |  |  | RhiffSta |
