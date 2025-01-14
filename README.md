@@ -44,12 +44,12 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 | CT Scanner | professional | n.a. | <30cm | n.a. | - | Anon |
 | OpenScan Mini | DIY kit | 340€ | <9cm | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | standard: 16mpx, advanced: 64mpx | OpenScan |
 | OpenScan Classic with Daheng 6mpx| DIY | 610€ | <18cm | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | standard kit (310€) + special camera/lens (300€) | OpenScan |
-| Revopoint Mini | hobbyist |  |  |  |  | Spherox |
-| Revopoint Range | hobbyist |  |  |  |  | Sheeter |
-| Revopoint Range 2 | hobbyist |  |  |  |  | RhiffSta |
+| Revopoint Mini | hobbyist | ~500€ | >1cm |  | discontinued | Spherox |
+| Revopoint Range | hobbyist | ~550€ | >5cm | discontinued |  | Sheeter |
+| Revopoint Range 2 | hobbyist | ~750€ | >5cm | [Revopoint3d.com](https://global.revopoint3d.com/pages/handheld-3d-scanner-range2) |  | RhiffSta |
 | OpenScan Classic with Daheng 21mpx | DIY | ~1000€ | <18cm | n.a. | standard kit + special camera/lens | OpenScan |
-| Creality Raptor | consumer | 1100€ | 1-100cm | [Revopoint3d.com](https://www.revopoint3d.com/products/3d-laser-scanner-metrox) |   | CNCkitchen + RhiffSta (Raw: 31,678 frames / 170,787 points)|
-| Revopoint MetroX | consumer | 1100€ |  | [MatterAndForm.net](https://www.matterandform.net/) |  | ? |
+| Creality Raptor | consumer | 1100€ | 0.5-100cm | [Revopoint3d.com](https://www.revopoint3d.com/products/3d-laser-scanner-metrox) |   | CNCkitchen + RhiffSta (Raw: 31,678 frames / 170,787 points)|
+| Revopoint MetroX | consumer | 1100€ |  | [Revopoint3d.com](https://global.revopoint3d.com/pages/3d-laser-scanner-metrox) |  | ? |
 | David SLS + Flexscan | prosumer | ~2000€ | 3-50cm | discontinued | custom | Sheeter |
-| MatterAndFormThree | prosumer | ~2700€ | <2m |  | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin | [Jordan Cain](https://x.com/odd_enough) |
+| MatterAndFormThree | prosumer | ~2700€ | <2m | [MatterAndForm.net](https://www.matterandform.net/) | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin | [Jordan Cain](https://x.com/odd_enough) |
 | EinScan H | professional | ~5000€ | 0.3-4m | [Einscan.com](https://www.einscan.com/einscan-h/) |  | RhiffSta |
