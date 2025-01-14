@@ -35,6 +35,10 @@ We provide printed models and offer free worldwide shipping. Just drop us a mail
 
 # The results
 
+![2025-01-14](https://github.com/user-attachments/assets/6d2e342c-41aa-4585-9613-8d4ec0ac8d80)
+
+
+
 | Scanner | Result | done by | Method | Downloadlink | Comment | 
 | -- | -- | -- | -- | -- | -- |
 | CT Scan |![CT_close](https://github.com/user-attachments/assets/fca3bfa7-0fe2-47cb-86e2-59fc46e078ca) | Anon | CT  | [Printables](https://www.printables.com/model/1012979-openscan-benchy-sample-3d-scan-with-ct-scanner) |  |
