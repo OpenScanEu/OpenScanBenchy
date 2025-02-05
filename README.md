@@ -53,7 +53,7 @@ We highly encourage other 3D scanner manufacturers to participate to create a ne
 
 # The results sorted by price (left to right, top to bottom)
 
-![output_grid02](https://github.com/user-attachments/assets/c2c650a2-0263-492a-9b4d-78c453013d51)
+![output_grid02](https://github.com/user-attachments/assets/aafaec33-37a1-4a61-8104-9815a77416b4)
 
 
 # The results - some more details
