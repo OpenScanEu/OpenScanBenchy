@@ -53,30 +53,49 @@ We highly encourage other 3D scanner manufacturers to participate to create a ne
 
 # The results sorted by price (left to right, top to bottom)
 
-![output_grid02](https://github.com/user-attachments/assets/aafaec33-37a1-4a61-8104-9815a77416b4)
+![output_grid02a](https://github.com/user-attachments/assets/6990d09c-69a8-456a-bab1-95d2a504d0f0)
+
 
 
 # The results - some more details
 
-| Scanner | Type | Price |  rec. object size | Link | Comment | scanned by |
-| -- | -- | -- | -- | -- | -- | -- |
-| CT Scanner | professional | n.a. | <30cm | n.a. | - | Anon |
-| OpenScan Mini | DIY kit | 340€ | <9cm | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | standard: 16mpx, advanced: 64mpx | OpenScan |
-| Creality CR-Scan Ferret | hobbyist | ~430€ | 5-200cm | [Creality.com](https://www.creality.com/de/products/cr-scan-ferret) | | Ben |
-| Revopoint Pop 2 | hobbyist | ~ 450€ | 2-200cm | [Revopoint3d.com](https://www.revopoint3d.com/pages/face-3d-scanner-pop2)| 0.1mm fusion, 1 minute 13 seconds to scan +fuse in 43 seconds + mesh in 30 seconds | MassisMakes |
-| OpenScan Classic with Daheng 6mpx| DIY | 500€ | <18cm | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | standard kit (310€) + special camera/lens (300€) | OpenScan |
-| Revopoint Mini | hobbyist | ~550€ | >1cm |  | discontinued | Spherox |
-| Revopoint Range | hobbyist | ~600€ | >5cm | discontinued |  ~4000frames, ~10mins, using markers, fusion at 0.1mm | Sheeter |
-| Revopoint Pop 3 | hobbyist | ~650€ | 2-250cm | [Revopoint3d.com](https://www.revopoint3d.com/pages/portable-3d-scanner-pop3) | Scanned with turntable, high accuracy mode, spraying with Aesub jewel. Single scan, with default process in RevoScan's software |
-| Revopoint Range | hobbyist | ~650€ | >5cm | discontinued | | Sheeter 
-| Revopoint Range 2 | hobbyist | ~750€ | >5cm | [Revopoint3d.com](https://global.revopoint3d.com/pages/handheld-3d-scanner-range2) |  | RhiffSta |
-| iPhone 15 Pro Max + LIDAR (Polycam) | hobbyist | ~1000€ | ? | | using LIDAR with Polycam App, ~3mins | OpenScan |
-| iPhone 15 Pro Max + default cam + Polycam | hobbyist | ~1000€ | ? | | took 200 photos with default camera app --> lot of noise, processing through Polycam App | OpenScan |
-| OpenScan Classic with Daheng 21mpx | DIY | ~1000€ | <18cm | n.a. | standard kit + special camera/lens | OpenScan |
-| Creality Raptor | consumer | 1100€ | 0.5-100cm | [Revopoint3d.com](https://www.revopoint3d.com/products/3d-laser-scanner-metrox) |   | CNCkitchen + RhiffSta (Raw: 31,678 frames / 170,787 points)|
-| Revopoint MetroX | consumer | 1100€ |  | [Revopoint3d.com](https://global.revopoint3d.com/pages/3d-laser-scanner-metrox) |  | ? |
-| David SLS + Flexscan | prosumer | ~2000€ | 3-50cm | discontinued | custom | Sheeter |
-| MatterAndFormThree | prosumer | ~2700€ | <2m | [MatterAndForm.net](https://www.matterandform.net/) | 25m35s for the scanning (~05m07s per turntable scan of 10 steps, 36 degrees each, 5 scans total), 08m29s for alignment, and 08m30s for the meshin | [Jordan Cain](https://x.com/odd_enough) |
-| EinScan H | professional | ~5000€ | 0.3-4m | [Einscan.com](https://www.einscan.com/einscan-h/) |  | RhiffSta |
-| Keyence VL570 | professional | >75.000€ | <30cm | [keyence.com](https://www.keyence.com/products/3d-measure/3d-scanner/vl/models/vl-570/) | some automatic post processing --> smoothing? | [EANT.de](https://www.eant.de/) |
-| HEXAGON absolute 85 | professional | >80.000€ | ? | | scanned in polyworks + quality scanning setting. generic polygon mesh option | nodge |
+| Scanner | Price* |  rec. object size | accuracy** | resolution** | Link to Scanner | Result & Details  | scanned by | 
+| -- | -- |  -- | -- | -- |  -- | -- | -- | 
+| CT Scanner | unknown | <30cm | unknown | unknown | unknown | [Printables](https://www.printables.com/model/1205314) | Anon |
+| OpenScan Mini | 340€ | <9cm | | | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | [Printables](https://www.printables.com/model/1205434-openscan-benchy-openscan-mini-imx519)  | OpenScan_Tho |
+| Creality CR-Scan Ferret | 430€ | 5-200cm | 0.1mm | 0.16mm | [Creality.com](https://www.creality.com/de/products/cr-scan-ferret) | [Printables](https://www.printables.com/model/1205292-openscan-benchy-creality-ferret-by-ben) | Ben |
+| OpenScan Mini with Hawkeye | 390€ | <9cm | | | [OpenScan.eu](https://openscan.eu/pages/openscan-mini) | [Printables](https://www.printables.com/model/1205440) | OpenScan_Tho |
+| Revopoint Pop 2 | 450€ | 2-200cm | 0.05mm | ? | [Revopoint3d.com](https://www.revopoint3d.com/pages/face-3d-scanner-pop2)| [Printables](https://www.printables.com/model/1205522-openscan-benchy-revopoint-pop2-by-nodge) | Nodge | 
+| OpenScan Classic with Daheng 6mpx| 500€ | <18cm | n.a. | n.a. | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | [Printables](https://www.printables.com/model/1205445-openscan-benchy-openscan-classic-daheng-6mpx-camer) | OpenScan_Tho |
+| Revopoint Mini | 550€ | >1cm | 0.02mm |  | discontinued | [Printables(1)](https://www.printables.com/model/1205487-openscan-benchy-revopoint-mini-by-spherox) [Printables(2)](https://www.printables.com/model/1205483/)| (1)Spherox (2)AdamB |
+| Revopoint Pop 3 | ~650€ | 2-250cm | 0.05mm | 0.05mm | [Revopoint3d.com](https://www.revopoint3d.com/pages/portable-3d-scanner-pop3) | [Printables](https://www.printables.com/model/1205533-openscan-benchy-revopoint-pop3-by-massismakes) | MassisMakes |
+| Revopoint Range | 650€ | >5cm |  | | discontinued | [Printables](https://www.printables.com/model/1205541-openscan-benchy-revopoint-range-by-sheeter) | Sheeter |
+| 3DMakerPro Moose | 660€ | >15mm | 0.03mm | 0.07mm | [3DMakerPro.com](https://store.3dmakerpro.com/de/products/moose) | [Printables](https://www.printables.com/model/1205245-3d-scan-benchmark-3dmakerpro-moose) | Anon |
+| Creality Otter | 750€ | >10mm | 0.02mm | 0.05mm | [Creality.com](https://store.creality.com/products/cr-scan-otter-3d-scanner) | [Printables](https://www.printables.com/model/1205295-openscan-benchy-creality-otter) | OpenScan_Tho |
+| Revopoint Range 2 | ~750€ | >5cm | 0.1mm | | [Revopoint3d.com](https://global.revopoint3d.com/pages/handheld-3d-scanner-range2) | [Printables](https://www.printables.com/model/1205549-openscan-benchy-revopoint-range-2-by-rhiffsta) | RhiffSta |
+| iPhone 15ProMax + Polycam  | 1000€ | | | | [Poly.cam](https://poly.cam/) | [Printables](https://www.printables.com/model/1205348) | OpenScan_Tho |
+| iPhone 15ProMax + LIDAR (Polycam) |  1000€ | n.a. | n.a. | n.a. | [Poly.cam](https://poly.cam/) | [Printables](https://www.printables.com/model/1205342) | OpenScan_Tho |
+| iPhone 15ProMax + Luma AI |  1000€ | n.a. | n.a. | n.a. | [LumaLabs.ai](https://lumalabs.ai/) | [Printables](https://www.printables.com/model/1205372-openscan-benchy-iphone-15-promax-luma-ai) | OpenScan_Tho |
+| OpenScan Classic with Daheng 21mpx | 1000€ | <18cm | n.a. | n.a. | [OpenScan.eu](https://openscan.eu/pages/openscan-classic) | [Printables](https://www.printables.com/model/1205418) | OpenScan_Tho |
+| Revopoint MetroX | 1100€ | >10cm | 0.01mm | 0.05mm | [Revopoint3d.com](https://global.revopoint3d.com/pages/3d-laser-scanner-metrox) | [Printables(1)](https://www.printables.com/model/1205468-openscan-benchy-revopoint-metrox-by-adamb) [Printables(2)](https://www.printables.com/model/1205471-openscan-benchy-revopoint-metrox-by-anon) | (1)AdamB (2)Anon |
+| Creality Raptor | 1100€ | 0.5-100cm | 0.02mm | 0.02mm | [Revopoint3d.com](https://www.revopoint3d.com/products/3d-laser-scanner-metrox) | [Printables(1)](https://www.printables.com/model/1205306-openscan-benchy-creality-raptor-by-cnckitchen) [Printables(2)](https://www.printables.com/model/1205310)| (1)CNCKitchen (2)RhiffSta |
+| Revopoint Miraco Plus | 1900€ | >10mm | 0.04mm | | [Revopoint3d.com](https://global.revopoint3d.com/products/all-in-one-3d-scanner-miracoplus) | [Printables](https://www.printables.com/model/1205498-openscan-benchy-revopoint-miraco-plus-by-krowncad) | KrownCAD |
+| David SLS + Flexscan |  ~2000€ | 3-50cm | | | discontinued | [Printables](https://www.printables.com/model/1205558-openscan-benchy-david-sls-2-by-sheeter) | Sheeter |
+| MatterAndFormThree | 2700€ | <2m | 0.033mm | 0.037mm | [MatterAndForm.net](https://www.matterandform.net/) | [Printables](https://www.printables.com/model/1205385-openscan-benchy-matterandform-three-by-jordanmccai) | [Jordan Cain](https://x.com/odd_enough) |
+| EinScan H | 5000€ | 0.3-4m  | 0.05mm | 0.25mm | [Einscan.com](https://www.einscan.com/einscan-h/) | [Printables](https://www.printables.com/model/1205317-openscan-benchy-einscan-h-by-rhiffsta) | RhiffSta |
+| Artec Micro II | 22000€ | | 0.005mm | 0.04mm | [Artec3D.com](https://www.artec3d.com/portable-3d-scanners/artec-micro) | [Printables](https://www.printables.com/model/1205278-openscan-benchy-artec-micro-ii-by-caleb) | Caleb |
+| Artec Micro | 24000€ |  | 0.01mm | 0.029mm | discontinued | [Printables](https://www.printables.com/model/1205266-openscan-benchy-artec-micro-by-ribuolidigital) | [RibuoliDigital](https://www.ribuolidigital.com/) |
+| Artec Space Spider | 25000€ |  | 0.05mm | 0.1mm | discontinued | [Printables](https://www.printables.com/model/1205289-openscan-benchy-artec-space-spider-by-caleb)| Caleb |
+| Artec Leo | 35000€ | >20cm !! | 0.1mm | 0.2mm | [Artec3D.com](https://www.artec3d.com/portable-3d-scanners/artec-leo) | [Printables](https://www.printables.com/model/1205258-openscan-benchy-artec-leo-by-caleb) | Caleb 
+| Keyence VL570 | >75.000€ | <30cm | 0.01mm| | [keyence.com](https://www.keyence.com/products/3d-measure/3d-scanner/vl/models/vl-570/) | [Printables](https://www.printables.com/model/1205358-openscan-benchy-keyence-vl570-by-eant) | [EANT.de](https://www.eant.de/) |
+| HEXAGON absolute 85 | professional | >80.000€ |  | |  | [Printables](https://www.printables.com/model/1205321-openscan-benchy-hexagon-absolute-85-by-nodge) | nodge |
+
+
+*The price varies by region. 
+
+** Claimed accuracy/resolution from the manufacturers homepages.
+
+
+
+
+
